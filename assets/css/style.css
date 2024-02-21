@@ -1191,7 +1191,7 @@ section .container {
 }
 
 .button {
-  --width: 100px;
+  --width: 200px;
   --height: 35px;
   --tooltip-height: 35px;
   --tooltip-width: 90px;
